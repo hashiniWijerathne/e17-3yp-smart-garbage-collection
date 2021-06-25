@@ -33,6 +33,7 @@
             "website": "#",
             "researchgate_profile":"#"
         },
+   
         {
             "name": "Supervisor 2",
             "email": "email@eng.pdn.ac.lk",
@@ -42,4 +43,12 @@
         }
     ],
     "tags": ["Web", "Embedded Systems"]
+    
+    "media": [
+        {
+            "type": "youtube",
+            "title": "",
+            "url": "#"
+        }
+    ]
 }
